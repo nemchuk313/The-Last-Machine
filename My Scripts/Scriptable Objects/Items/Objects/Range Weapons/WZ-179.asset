@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d52f6036a6f04db449ea154e5bd87c7f, type: 3}
+  m_Name: WZ-179
+  m_EditorClassIdentifier: 
+  id: 4
+  uiDisplay: {fileID: 21300000, guid: 3baf0f5ab3f9ed44b8a60e6d5b245f38, type: 3}
+  type: 0
+  description: machine gun
+  buffs:
+  - buff: 0
+    value: 0
+    min: 1
+    max: 15
+  damage: 15
+  range: medium
+  fireRate: vey high

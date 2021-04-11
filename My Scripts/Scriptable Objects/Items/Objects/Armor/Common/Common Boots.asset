@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55e9e1bd17e2f5d4ca357b9eb5dd8e7c, type: 3}
+  m_Name: Common Boots
+  m_EditorClassIdentifier: 
+  id: 7
+  uiDisplay: {fileID: 21300000, guid: 6b2decad069c4084f99f03e4e20caab9, type: 3}
+  type: 5
+  description: 
+  buffs:
+  - buff: 0
+    value: 0
+    min: 5
+    max: 10

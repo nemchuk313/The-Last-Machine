@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f64e765875d64e1458045b92b427f8e0, type: 3}
+  m_Name: Rare Helmet
+  m_EditorClassIdentifier: 
+  id: 12
+  uiDisplay: {fileID: 21300000, guid: 879b0e3135ba3814da972898f41272b9, type: 3}
+  type: 3
+  description: 
+  buffs:
+  - buff: 0
+    value: 0
+    min: 10
+    max: 20
+  - buff: 0
+    value: 0
+    min: 0
+    max: 0
